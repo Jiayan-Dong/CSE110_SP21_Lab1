@@ -1,7 +1,7 @@
 
 # Jiayan Dong's Page 
-[Go to About me as a programmer](##About me as a programmer)
-[Go to About me as a person](##About me as a person)
+[Go to About me as a programmer](##About me as a programmer)  
+[Go to About me as a person](##About me as a person)  
 ![me](me.jpg)  
 This is **Jiayan Dong's Page** for *CSE 110* at ***UCSD***  
 ## About me as a programmer  
