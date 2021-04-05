@@ -25,7 +25,7 @@ My favrite lyric is from *José González - Stay Alive*:
 > _We'll do whatever just to stay alive._  
 
 My favrite programing language is C++:  
-`cout << ""Hello World!" << endl`  
+`cout << ""Hello World!" << endl;`  
 
 This is my main [github page](https://github.com/nonlighting/).  
 
