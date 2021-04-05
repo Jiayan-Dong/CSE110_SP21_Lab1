@@ -19,10 +19,10 @@ In my free time, I like to:
 3. play video games.
 4. travel around
 
-By the way, I have a cat and he's name is fatty. [cat](./cat.jpg)
+By the way, I have a cat and he's name is fatty. Here is a relative link to the his photo [cat](./cat.jpg).
 
 My favrite lyric is from *José González - Stay Alive*:  
-> We'll do whatever just to stay alive.  
+> _We'll do whatever just to stay alive._  
 
 My favrite programing language is C++:  
 `cout << ""Hello World!" << endl`  
